@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-from slugify import slugify
 from scrapy import Spider
 
 
@@ -7,6 +6,7 @@ class OperatorsSpider(Spider):
     name = "operators"
     allowed_domains = ["en.rhinelab.org"]
     start_urls = ["http://en.rhinelab.org/List_of_Operators_by_Image"]
+    slug = "name"
 
     def parse(self, response):
         for a in response.css(".charbadge-image > a"):
@@ -21,7 +21,6 @@ class OperatorsSpider(Spider):
         if not name:
             name = extract("h1::text")
         yield {
-            "slug": slugify(name),
             "name": name,
             "stars": len(response.css(".character-stars span")),
         }
