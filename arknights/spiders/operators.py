@@ -3,7 +3,7 @@ from slugify import slugify
 from scrapy import Spider
 
 
-class BasicSpider(Spider):
+class OperatorsSpider(Spider):
     name = "operators"
     allowed_domains = ["en.rhinelab.org"]
     start_urls = ["http://en.rhinelab.org/List_of_Operators_by_Image"]
