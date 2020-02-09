@@ -1,4 +1,6 @@
 {
+  "class": "sniper",
+  "faction": "penguin-logistics",
   "name": "Exusiai",
   "slug": "exusiai",
   "stars": 6

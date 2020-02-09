@@ -1,4 +1,6 @@
 {
+  "class": "guard",
+  "faction": "victoria",
   "name": "Indra",
   "slug": "indra",
   "stars": 5

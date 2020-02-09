@@ -1,4 +1,6 @@
 {
+  "class": "defender",
+  "faction": "rhodes-island",
   "name": "Nearl",
   "slug": "nearl",
   "stars": 5

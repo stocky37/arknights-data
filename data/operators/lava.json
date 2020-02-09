@@ -1,4 +1,6 @@
 {
+  "class": "caster",
+  "faction": "rhodes-island",
   "name": "Lava",
   "slug": "lava",
   "stars": 3

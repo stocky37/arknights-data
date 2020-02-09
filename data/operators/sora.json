@@ -1,4 +1,6 @@
 {
+  "class": "supporter",
+  "faction": "penguin-logistics",
   "name": "Sora",
   "slug": "sora",
   "stars": 5

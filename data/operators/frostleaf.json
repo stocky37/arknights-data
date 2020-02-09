@@ -1,4 +1,6 @@
 {
+  "class": "guard",
+  "faction": "rhodes-island",
   "name": "Frostleaf",
   "slug": "frostleaf",
   "stars": 4

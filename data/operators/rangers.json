@@ -1,4 +1,6 @@
 {
+  "class": "sniper",
+  "faction": "rhodes-island",
   "name": "Rangers",
   "slug": "rangers",
   "stars": 2

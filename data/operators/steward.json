@@ -1,4 +1,6 @@
 {
+  "class": "caster",
+  "faction": "rhodes-island",
   "name": "Steward",
   "slug": "steward",
   "stars": 3

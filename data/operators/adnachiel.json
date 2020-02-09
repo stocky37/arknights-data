@@ -1,4 +1,6 @@
 {
+  "class": "sniper",
+  "faction": "rhodes-island",
   "name": "Adnachiel",
   "slug": "adnachiel",
   "stars": 3

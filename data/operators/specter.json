@@ -1,4 +1,6 @@
 {
+  "class": "guard",
+  "faction": "rhodes-island",
   "name": "Specter",
   "slug": "specter",
   "stars": 5

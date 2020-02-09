@@ -1,4 +1,6 @@
 {
+  "class": "caster",
+  "faction": "rhine-lab",
   "name": "Ifrit",
   "slug": "ifrit",
   "stars": 6

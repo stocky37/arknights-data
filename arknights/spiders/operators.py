@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 from scrapy import Spider
+from slugify import slugify
 
 
 class OperatorsSpider(Spider):
@@ -20,7 +21,11 @@ class OperatorsSpider(Spider):
         name = extract(".character-name::text")
         if not name:
             name = extract("h1::text")
+        icons = response.css(".character-icon")
+
         yield {
             "name": name,
             "stars": len(response.css(".character-stars span")),
+            "class": slugify(icons[0].css("a::attr(title)").get()),
+            "faction": slugify(icons[1].css("a::attr(title)").get()),
         }

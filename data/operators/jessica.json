@@ -1,4 +1,6 @@
 {
+  "class": "sniper",
+  "faction": "blacksteel",
   "name": "Jessica",
   "slug": "jessica",
   "stars": 4

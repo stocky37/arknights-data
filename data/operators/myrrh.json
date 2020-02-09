@@ -1,4 +1,6 @@
 {
+  "class": "medic",
+  "faction": "rhodes-island",
   "name": "Myrrh",
   "slug": "myrrh",
   "stars": 4

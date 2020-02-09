@@ -1,4 +1,6 @@
 {
+  "class": "guard",
+  "faction": "rhodes-island",
   "name": "Castle-3",
   "slug": "castle-3",
   "stars": 1

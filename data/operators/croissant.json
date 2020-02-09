@@ -1,4 +1,6 @@
 {
+  "class": "defender",
+  "faction": "penguin-logistics",
   "name": "Croissant",
   "slug": "croissant",
   "stars": 5

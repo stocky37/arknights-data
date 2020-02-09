@@ -1,4 +1,6 @@
 {
+  "class": "defender",
+  "faction": "kjerag",
   "name": "Matterhorn",
   "slug": "matterhorn",
   "stars": 4

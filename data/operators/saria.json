@@ -1,4 +1,6 @@
 {
+  "class": "defender",
+  "faction": "rhine-lab",
   "name": "Saria",
   "slug": "saria",
   "stars": 6

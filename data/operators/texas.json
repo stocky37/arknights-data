@@ -1,4 +1,6 @@
 {
+  "class": "vanguard",
+  "faction": "penguin-logistics",
   "name": "Texas",
   "slug": "texas",
   "stars": 5

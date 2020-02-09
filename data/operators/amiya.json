@@ -1,4 +1,6 @@
 {
+  "class": "caster",
+  "faction": "rhodes-island",
   "name": "Amiya",
   "slug": "amiya",
   "stars": 5

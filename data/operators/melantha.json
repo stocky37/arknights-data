@@ -1,4 +1,6 @@
 {
+  "class": "guard",
+  "faction": "rhodes-island",
   "name": "Melantha",
   "slug": "melantha",
   "stars": 3

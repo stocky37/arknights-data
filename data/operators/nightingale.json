@@ -1,4 +1,6 @@
 {
+  "class": "medic",
+  "faction": "rhodes-island",
   "name": "Nightingale",
   "slug": "nightingale",
   "stars": 6

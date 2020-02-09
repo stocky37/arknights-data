@@ -1,4 +1,6 @@
 {
+  "class": "medic",
+  "faction": "rhodes-island",
   "name": "Hibiscus",
   "slug": "hibiscus",
   "stars": 3

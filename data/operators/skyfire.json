@@ -1,4 +1,6 @@
 {
+  "class": "caster",
+  "faction": "rhodes-island",
   "name": "Skyfire",
   "slug": "skyfire",
   "stars": 5

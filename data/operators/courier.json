@@ -1,4 +1,6 @@
 {
+  "class": "vanguard",
+  "faction": "kjerag",
   "name": "Courier",
   "slug": "courier",
   "stars": 4

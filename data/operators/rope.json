@@ -1,4 +1,6 @@
 {
+  "class": "specialist",
+  "faction": "rom-billiton",
   "name": "Rope",
   "slug": "rope",
   "stars": 4

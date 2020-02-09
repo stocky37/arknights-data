@@ -1,4 +1,6 @@
 {
+  "class": "sniper",
+  "faction": "rhodes-island",
   "name": "Firewatch",
   "slug": "firewatch",
   "stars": 5

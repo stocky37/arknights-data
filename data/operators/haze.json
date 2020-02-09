@@ -1,4 +1,6 @@
 {
+  "class": "caster",
+  "faction": "victoria",
   "name": "Haze",
   "slug": "haze",
   "stars": 4

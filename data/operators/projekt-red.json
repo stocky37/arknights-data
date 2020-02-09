@@ -1,4 +1,6 @@
 {
+  "class": "specialist",
+  "faction": "rhodes-island",
   "name": "Projekt Red",
   "slug": "projekt-red",
   "stars": 5

@@ -1,4 +1,6 @@
 {
+  "class": "vanguard",
+  "faction": "rhodes-island",
   "name": "Vanilla",
   "slug": "vanilla",
   "stars": 3

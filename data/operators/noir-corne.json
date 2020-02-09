@@ -1,4 +1,6 @@
 {
+  "class": "defender",
+  "faction": "rhodes-island",
   "name": "Noir Corne",
   "slug": "noir-corne",
   "stars": 2

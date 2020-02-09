@@ -1,4 +1,6 @@
 {
+  "class": "specialist",
+  "faction": "kjerag",
   "name": "Cliffheart",
   "slug": "cliffheart",
   "stars": 5

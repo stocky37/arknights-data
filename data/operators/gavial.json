@@ -1,4 +1,6 @@
 {
+  "class": "medic",
+  "faction": "rhodes-island",
   "name": "Gavial",
   "slug": "gavial",
   "stars": 4

@@ -1,4 +1,6 @@
 {
+  "class": "sniper",
+  "faction": "rhodes-island",
   "name": "Blue Poison",
   "slug": "blue-poison",
   "stars": 5

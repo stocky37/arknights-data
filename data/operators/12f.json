@@ -1,4 +1,6 @@
 {
+  "class": "caster",
+  "faction": "rhodes-island",
   "name": "12F",
   "slug": "12f",
   "stars": 2

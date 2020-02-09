@@ -1,4 +1,6 @@
 {
+  "class": "guard",
+  "faction": "blacksteel",
   "name": "Franka",
   "slug": "franka",
   "stars": 5

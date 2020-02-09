@@ -1,4 +1,6 @@
 {
+  "class": "defender",
+  "faction": "rhodes-island",
   "name": "Beagle",
   "slug": "beagle",
   "stars": 3

@@ -1,4 +1,6 @@
 {
+  "class": "guard",
+  "faction": "victoria",
   "name": "Mousse",
   "slug": "mousse",
   "stars": 4

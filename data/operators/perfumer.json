@@ -1,4 +1,6 @@
 {
+  "class": "medic",
+  "faction": "rhodes-island",
   "name": "Perfumer",
   "slug": "perfumer",
   "stars": 4

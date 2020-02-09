@@ -1,4 +1,6 @@
 {
+  "class": "sniper",
+  "faction": "rhodes-island",
   "name": "Meteorite",
   "slug": "meteorite",
   "stars": 5

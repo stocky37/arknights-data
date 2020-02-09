@@ -1,4 +1,6 @@
 {
+  "class": "guard",
+  "faction": "rhodes-island",
   "name": "Lappland",
   "slug": "lappland",
   "stars": 5

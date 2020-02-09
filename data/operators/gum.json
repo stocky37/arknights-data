@@ -1,4 +1,6 @@
 {
+  "class": "defender",
+  "faction": "ursus",
   "name": "Gum",
   "slug": "gum",
   "stars": 4

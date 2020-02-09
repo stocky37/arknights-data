@@ -1,4 +1,6 @@
 {
+  "class": "medic",
+  "faction": "rhine-lab",
   "name": "Silence",
   "slug": "silence",
   "stars": 5

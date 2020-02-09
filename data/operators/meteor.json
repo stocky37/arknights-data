@@ -1,4 +1,6 @@
 {
+  "class": "sniper",
+  "faction": "kazimierz",
   "name": "Meteor",
   "slug": "meteor",
   "stars": 4

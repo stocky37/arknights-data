@@ -1,4 +1,6 @@
 {
+  "class": "vanguard",
+  "faction": "victoria",
   "name": "Siege",
   "slug": "siege",
   "stars": 6

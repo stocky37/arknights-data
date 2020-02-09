@@ -1,4 +1,6 @@
 {
+  "class": "defender",
+  "faction": "blacksteel",
   "name": "Liskarm",
   "slug": "liskarm",
   "stars": 5

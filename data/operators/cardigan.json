@@ -1,4 +1,6 @@
 {
+  "class": "defender",
+  "faction": "rhodes-island",
   "name": "Cardigan",
   "slug": "cardigan",
   "stars": 3

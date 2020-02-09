@@ -1,4 +1,6 @@
 {
+  "class": "medic",
+  "faction": "rhodes-island",
   "name": "Lancet-2",
   "slug": "lancet-2",
   "stars": 1

@@ -1,4 +1,6 @@
 {
+  "class": "medic",
+  "faction": "rhodes-island",
   "name": "Shining",
   "slug": "shining",
   "stars": 6

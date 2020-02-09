@@ -1,4 +1,6 @@
 {
+  "class": "specialist",
+  "faction": "rhodes-island",
   "name": "Manticore",
   "slug": "manticore",
   "stars": 5

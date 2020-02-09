@@ -1,4 +1,6 @@
 {
+  "class": "medic",
+  "faction": "rhodes-island",
   "name": "Ansel",
   "slug": "ansel",
   "stars": 3

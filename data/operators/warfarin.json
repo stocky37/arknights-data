@@ -1,4 +1,6 @@
 {
+  "class": "medic",
+  "faction": "rhodes-island",
   "name": "Warfarin",
   "slug": "warfarin",
   "stars": 5

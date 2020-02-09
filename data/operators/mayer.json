@@ -1,4 +1,6 @@
 {
+  "class": "supporter",
+  "faction": "rhine-lab",
   "name": "Mayer",
   "slug": "mayer",
   "stars": 5

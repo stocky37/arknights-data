@@ -1,4 +1,6 @@
 {
+  "class": "caster",
+  "faction": "rhodes-island",
   "name": "Durin",
   "slug": "durin",
   "stars": 2

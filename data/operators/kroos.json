@@ -1,4 +1,6 @@
 {
+  "class": "sniper",
+  "faction": "rhodes-island",
   "name": "Kroos",
   "slug": "kroos",
   "stars": 3
