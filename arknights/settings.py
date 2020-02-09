@@ -14,6 +14,8 @@ BOT_NAME = "arknights"
 SPIDER_MODULES = ["arknights.spiders"]
 NEWSPIDER_MODULE = "arknights.spiders"
 
+FILENAME_TEMPLATE = "data/{0}/{1}.json"
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = 'arknights (+http://www.yourdomain.com)'
