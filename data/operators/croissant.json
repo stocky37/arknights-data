@@ -1,1 +1,5 @@
-{"slug": "croissant", "name": "Croissant", "stars": 5}
+{
+  "name": "Croissant",
+  "slug": "croissant",
+  "stars": 5
+}

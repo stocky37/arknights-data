@@ -1,1 +1,5 @@
-{"slug": "projekt-red", "name": "Projekt Red", "stars": 5}
+{
+  "name": "Projekt Red",
+  "slug": "projekt-red",
+  "stars": 5
+}
