@@ -1,4 +1,6 @@
 {
+  "class": "caster",
+  "faction": "",
   "name": "Eyjafjalla",
   "slug": "eyjafjalla",
   "stars": 6

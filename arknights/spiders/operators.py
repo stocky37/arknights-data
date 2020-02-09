@@ -10,13 +10,13 @@ class OperatorsSpider(Spider):
     slug = "name"
 
     def parse(self, response):
-        for a in response.css(".charbadge-image > a"):
+        for a in response.css(".charbadge-name > a"):
             yield response.follow(a, self.parse_operator)
 
     @staticmethod
     def parse_operator(response):
-        def extract(query):
-            return response.css(query).get(default="").strip()
+        def extract(query, base=response):
+            return base.css(query).get(default="").strip()
 
         name = extract(".character-name::text")
         if not name:
@@ -26,6 +26,6 @@ class OperatorsSpider(Spider):
         yield {
             "name": name,
             "stars": len(response.css(".character-stars span")),
-            "class": slugify(icons[0].css("a::attr(title)").get()),
-            "faction": slugify(icons[1].css("a::attr(title)").get()),
+            "class": slugify(extract("a::attr(title)", icons[0])),
+            "faction": slugify(extract("a::attr(title)", icons[1])),
         }
