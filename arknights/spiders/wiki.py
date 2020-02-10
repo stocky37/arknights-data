@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 from scrapy import Spider
 
-from arknights.parsers.classes import ClassParser
-from arknights.parsers.factions import FactionParser
-from arknights.parsers.operators import OperatorParser
+from arknights.parsers.wiki.classes import ClassParser
+from arknights.parsers.wiki.factions import FactionParser
+from arknights.parsers.wiki.operators import OperatorParser
 
 
 class WikiSpider(Spider):
