@@ -16,6 +16,9 @@ NEWSPIDER_MODULE = "arknights.spiders"
 
 FILENAME_TEMPLATE = "data/{0}/{1}.json"
 
+# LOG_STDOUT = False
+# LOG_FILE = "output.log"
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = 'arknights (+http://www.yourdomain.com)'

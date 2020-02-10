@@ -41,8 +41,16 @@ class WikiSpider(Spider):
         if faction_a:
             yield response.follow(faction_a, self.parse_faction)
 
-    def parse_class(self, response):
-        pass
+    @staticmethod
+    def parse_class(response):
+        yield {
+            "_dir": "classes",
+            "name": response.css("h1::text").get(default="").strip(),
+        }
 
-    def parse_faction(self, response):
-        pass
+    @staticmethod
+    def parse_faction(response):
+        yield {
+            "_dir": "factions",
+            "name": response.css("h1::text").get(default="").strip(),
+        }
