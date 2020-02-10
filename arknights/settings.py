@@ -67,6 +67,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
+    "arknights.pipelines.filter.FilterPipeline": 10,
     "arknights.pipelines.slugify.SlugifyPipeline": 100,
     "arknights.pipelines.merge.JsonMergePipeline": 200,
     "arknights.pipelines.json.JsonPipeline": 300,
