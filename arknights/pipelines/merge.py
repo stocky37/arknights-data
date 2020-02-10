@@ -6,7 +6,7 @@ class JsonMergePipeline(object):
     @staticmethod
     def process_item(item, spider):
         filename = spider.settings.get("FILENAME_TEMPLATE").format(
-            spider.name, item["slug"]
+            item["_dir"], item["slug"]
         )
 
         if os.path.exists(filename):
